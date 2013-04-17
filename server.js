@@ -1,4 +1,5 @@
-// slightly modified version of echo-server.js for the web-sockets demo
+// modified version of server.js for the web-sockets demo 
+// by westhacker
 
 
 var sys = require("sys")
